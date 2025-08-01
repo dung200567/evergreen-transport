@@ -7,21 +7,36 @@ const EMAILJS_TEMPLATE_ID = 'template_itwub78';
 const EMAILJS_PUBLIC_KEY = 'oRqEh5mULFTsdjd2x';
 
 export default function BookingForm() {
-  const [formData, setFormData] = useState({
-    customerName: '',
-    phone: '',
-    email: '',
-    fromAddress: '',
-    toAddress: '',
-    serviceType: '',
-    movingDate: '',
-    movingTime: '',
-    roomType: '',
-    floors: '1',
-    elevator: 'no',
-    additionalServices: [],
-    notes: ''
-  });
+  interface FormData {
+  customerName: string;
+  phone: string;
+  email: string;
+  fromAddress: string;
+  toAddress: string;
+  serviceType: string;
+  movingDate: string;
+  movingTime: string;
+  roomType: string;
+  floors: string;
+  elevator: string;
+  additionalServices: string[];
+  notes: string;
+}
+const [formData, setFormData] = useState<FormData>({
+  customerName: '',
+  phone: '',
+  email: '',
+  fromAddress: '',
+  toAddress: '',
+  serviceType: '',
+  movingDate: '',
+  movingTime: '',
+  roomType: '',
+  floors: '1',
+  elevator: 'no',
+  additionalServices: [],
+  notes: ''
+});
 
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState('');
