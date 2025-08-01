@@ -61,7 +61,7 @@ const handleInputChange = (
   }));
 };
 
-  const handleServiceChange = (serviceValue) => {
+ const handleServiceChange = (serviceValue: string) => {
     setFormData(prev => ({
       ...prev,
       additionalServices: prev.additionalServices.includes(serviceValue)
