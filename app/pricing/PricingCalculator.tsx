@@ -3,12 +3,18 @@
 import { useState } from 'react';
 
 export default function PricingCalculator() {
-  const [formData, setFormData] = useState({
-    roomType: '',
-    distance: '',
-    services: [],
-    floors: '1'
-  });
+  interface FormData {
+  roomType: string;
+  distance: string;
+  services: string[];
+  floors: string;
+}
+const [formData, setFormData] = useState<FormData>({
+  roomType: '',
+  distance: '',
+  services: [],
+  floors: '1'
+});
   
   const [estimatedPrice, setEstimatedPrice] = useState(0);
 
@@ -58,7 +64,7 @@ export default function PricingCalculator() {
     setEstimatedPrice(totalPrice);
   };
 
-  const handleServiceChange = (serviceValue) => {
+  const handleServiceChange = (serviceValue: string) => {
     setFormData(prev => ({
       ...prev,
       services: prev.services.includes(serviceValue)
