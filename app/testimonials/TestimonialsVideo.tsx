@@ -6,21 +6,23 @@ export default function TestimonialsVideo() {
       name: 'Quy Trình Chuyển Nhà Của Chúng Tôi',
       role: 'Dịch Vụ:Chuyển Nhà Trọn Gói',
       content: 'Chuyển Nhà Tại Xuân Đỉnh,Căn Nhà 3 Tầng',
-      videoUrl: 'https://www.facebook.com/share/v/1FNayLLRU4/'
+      videoUrl: 'https://www.facebook.com/share/v/1FNayLLRU4/',
       thumbnail: 'https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/527922280_1280172737227987_3216941294888750523_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gW5qpEQj4oIQ7kNvwEXfNGf&_nc_oc=AdmCRqEMbRLwc2RB-8okla08pWiwus0w7dAoOGKRcON5w0qe_0f6qQspgkbFXjDfP4OD5IWzdZ3LpE-R8x3OEgP0&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&_nc_gid=IlyNOcNrIdVjkOqq2c0Ajg&oh=00_AfRS1WN9XV6Yb-9RqDjbg9Xfj0IRKwpoG4NQ0vrjnOjbHg&oe=6893CFCC'
-    },
+    }
+    ,
     {
       name: 'Quy Trình Chuyển Nhà Của Chúng Tôi',
       role: 'Dịch Vụ:Cho Thuê Xe Tải',
       content: 'Chuyển nhà hàng với đầy đủ thiết bị, mở cửa đúng hẹn',
-      thumbnail: 'https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/526657637_1280172603894667_6320365141136326021_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TdNy-IjoR48Q7kNvwHS0TX_&_nc_oc=AdkA7Oul4P9zXVfxz2P4vyMIomupkAMEQRbpB1EppLJi5bcgISETG9RWCFnCo2w4s0stTZlcvxdSDFKUplJuJqiI&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&_nc_gid=k6F8RzIBpxzhuIxVL6f9mg&oh=00_AfQyjNxGsPDo6CIE1hX0ofIgY_86uOKBMCQPYFcyk08JTg&oe=6893C96D'
+      thumbnail: 'https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/526657637_1280172603894667_6320365141136326021_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TdNy-IjoR48Q7kNvwHS0TX_&_nc_oc=AdkA7Oul4P9zXVfxz2P4vyMIomupkAMEQRbpB1EppLJi5bcgISETG9RWCFnCo2w4s0stTZlcvxdSDFKUplJuJqiI&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&_nc_gid=k6F8RzIBpxzhuIxVL6f9mg&oh=00_AfQyjNxGsPDo6CIE1hX0ofIgY_86uOKBMCQPYFcyk08JTg&oe=6893C96D',
       videoUrl: 'https://www.facebook.com/share/v/1CNxYeAsZp/'
-    },
+    }
+    ,
     {
       name: 'Giới Thiệu Về Dịch Vụ Của Chúng Tôi',
       role: 'Dịch Vụ Chuyển Nhà Uy Tín Chất Lượng',
       content: 'Bảo Đảm Tuyệt Đối Đồ Của Khách Hàng',
-      thumbnail: 'https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/525754768_1280172670561327_4582625391832697437_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TZ5_KbOi_d4Q7kNvwHz0O_A&_nc_oc=AdmHDfNZ_6uU-qRIe2Q2BmAV0n_eLovKliytIkh4lTS16-EE-qzuoyvYmb9gUd0vYCRg_MzpaP6Arh-iU9gw1jq0&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&_nc_gid=R9Uww_p7IBXkVicGeiQesQ&oh=00_AfQHYBwwkDZcNTd3ICFvsoyq8AFPcMCSpfNDYbcKsFtX1g&oe=6893CC51'
+      thumbnail: 'https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/525754768_1280172670561327_4582625391832697437_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TZ5_KbOi_d4Q7kNvwHz0O_A&_nc_oc=AdmHDfNZ_6uU-qRIe2Q2BmAV0n_eLovKliytIkh4lTS16-EE-qzuoyvYmb9gUd0vYCRg_MzpaP6Arh-iU9gw1jq0&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&_nc_gid=R9Uww_p7IBXkVicGeiQesQ&oh=00_AfQHYBwwkDZcNTd3ICFvsoyq8AFPcMCSpfNDYbcKsFtX1g&oe=6893CC51',
       videoUrl: 'https://m.facebook.com/story.php?story_fbid=pfbid02SagMrzftsKdXDfd7nVed1qLJY2Z1PvQioneZ2Nb1uP3TAEXtcSC1iuBrXohtzDeUl&id=61578642998278&mibextid=ZbWKwL'
     }
   ];
