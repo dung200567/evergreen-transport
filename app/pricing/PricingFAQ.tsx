@@ -40,9 +40,9 @@ export default function PricingFAQ() {
     }
   ];
 
-  const toggleFAQ = (index) => {
-    setActiveIndex(activeIndex === index ? null : index);
-  };
+const toggleFAQ = (index: number) => {
+  setActiveIndex(activeIndex === index ? null : index);
+};
 
   return (
     <section className="py-20 bg-gray-50">
