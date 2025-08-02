@@ -10,13 +10,13 @@ export default function TeamSection() {
       image: 'https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/525488019_1278266120751982_1696023575749386267_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Mn-IHbpFEvYQ7kNvwHQ1k0B&_nc_oc=Adn3yzddsemGaQMRa0GLvGZx4wmrgJ8e--R-OMduDnHGuQai12vK2Cc5704GC9_HxDjPzfnz9XJlo36449XDs0VB&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&_nc_gid=T8EuDYHoZoQafDlk04Dbgg&oh=00_AfR-B6E03lXmofGXeG_3yQydSgHBcqY5qp9D25xfBL4zHQ&oe=6890E9A0'
     },
     {
-      name: 'Trần Thị Bình',
+      name: 'Nguyễn Phương Anh',
       experience: '6 năm kinh nghiệm',
       description: 'Chuyên về tư vấn khách hàng và phát triển dịch vụ, cam kết mang đến trải nghiệm tốt nhất.',
-      image: 'https://huongnghiepsongan.com/wp-content/uploads/2024/08/3.-Tran-Thi-Ngoc-Bich-799x800.jpg'
+      image: 'https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/528043633_1280135903898337_8496146474720292352_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Gb016HCBhMYQ7kNvwF4Pqel&_nc_oc=Admh7Awwv2k99BL8UT0cFZA1JlnqdMkMTo78MRAgdY1OK7bNkiYhTv5kKHmOwyp-AzmGoMfWJ-QILKxdkUOSqseU&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&_nc_gid=of1J2PCNSSdKZW_ehEQBrg&oh=00_AfRcK5kgcezzaqoGM4k1VxraAwrk4Z_ikd7-wbrNC31MQw&oe=6893CEA4'
     },
     {
-      name: 'Lưu Quang vinh',
+      name: 'Lưu Quang Vinh',
       experience: '7 năm kinh nghiệm',
       description: 'Chuyên gia về tháo lắp nội thất và kỹ thuật đóng gói, đảm bảo an toàn tuyệt đối cho hàng hóa.',
       image: 'https://static.readdy.ai/image/0a23ecdabcf5bed08d32b4e165bba5fb/16954b033f3c359432bd2beb542d8231.jfif'

@@ -19,7 +19,7 @@ export default function ServicesHero() {
           <a href="#services-list" className="bg-white text-emerald-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors whitespace-nowrap cursor-pointer">
             Xem dịch vụ
           </a>
-          <a href="tel:0123456789" className="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-emerald-600 transition-colors whitespace-nowrap cursor-pointer">
+          <a href="tel:0388823884" className="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-emerald-600 transition-colors whitespace-nowrap cursor-pointer">
             Liên hệ ngay
           </a>
         </div>

@@ -36,7 +36,7 @@ const [formData, setFormData] = useState<FormData>({
     { value: 'packing', label: 'Đóng gói chuyên nghiệp', price: 200000 },
     { value: 'furniture', label: 'Tháo lắp nội thất', price: 300000 },
     { value: 'cleaning', label: 'Dọn dẹp sau chuyển', price: 150000 },
-    { value: 'storage', label: 'Lưu trữ tạm thời', price: 100000 }
+    { value: 'storage', label: 'Thùng Đựng Đồ Chuyên Dụng', price: 100000 }
   ];
 
   const calculatePrice = () => {
