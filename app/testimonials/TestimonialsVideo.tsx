@@ -9,21 +9,21 @@ export default function TestimonialsVideo() {
       role: 'Dịch Vụ: Chuyển Nhà Trọn Gói',
       content: 'Chuyển Nhà Tại Xuân Đỉnh, Căn Nhà 3 Tầng',
       videoUrl: 'https://www.facebook.com/share/v/1FNayLLRU4/',
-      thumbnail: 'https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/527922280_1280172737227987_3216941294888750523_n.jpg?...'
+      thumbnail: 'https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/527922280_1280172737227987_3216941294888750523_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gW5qpEQj4oIQ7kNvwH6UhyR&_nc_oc=AdkSxb9z3N-GQrr1SrNHOm9Q_IRLX225UKnLqgNCPYP8aau2Z4hUnb6V2OC7saRC2hW7_zXhArOVr33Ewy6thoCD&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&_nc_gid=C6jN96Tep1kIwe2uSHm5DQ&oh=00_AfSyfLwUpBy23sEDFqNELew-d6KdeZ5bWNITjJ8nvTpncQ&oe=6894080C'
     },
     {
       name: 'Quy Trình Chuyển Nhà Của Chúng Tôi',
       role: 'Dịch Vụ: Cho Thuê Xe Tải',
       content: 'Chuyển nhà hàng với đầy đủ thiết bị, mở cửa đúng hẹn',
       videoUrl: 'https://www.facebook.com/share/v/1CNxYeAsZp/',
-      thumbnail: 'https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/526657637_1280172603894667_6320365141136326021_n.jpg?...'
+      thumbnail: 'https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/526657637_1280172603894667_6320365141136326021_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TdNy-IjoR48Q7kNvwHiAv-Y&_nc_oc=AdkgwFjp70tFY_yWz8XslDyOR2QS7ZqBzyhdswUqgclo7FxShJd_BeuDwlyE0TcAd5JpYXW1RRWGbQPWHzPXkLLs&_nc_zt=23&_nc_ht=scontent.fhan15-2.fna&_nc_gid=7RB6q4uxyxAuDxrtiCvMQA&oh=00_AfQnDSaRN7q-biBV0lMkthpFXMgB-uHWAhuwoo55jE6aig&oe=689401AD'
     },
     {
       name: 'Giới Thiệu Về Dịch Vụ Của Chúng Tôi',
       role: 'Dịch Vụ Chuyển Nhà Uy Tín Chất Lượng',
       content: 'Bảo Đảm Tuyệt Đối Đồ Của Khách Hàng',
       videoUrl: 'https://m.facebook.com/story.php?story_fbid=pfbid02SagMrzftsKdXDfd7nVed1qLJY2Z1PvQioneZ2Nb1uP3TAEXtcSC1iuBrXohtzDeUl&id=61578642998278&mibextid=ZbWKwL',
-      thumbnail: 'https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/525754768_1280172670561327_4582625391832697437_n.jpg?...'
+      thumbnail: 'https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/525754768_1280172670561327_4582625391832697437_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TZ5_KbOi_d4Q7kNvwFjNVUN&_nc_oc=Adk5WOaVE8DtEBYpvDfxKIXZDIJWfM4RBljqL0RlU-SZC4-NVYx1jYGNyIC2Y9czE4eu77JFZD9nIj1cbjBRlY7A&_nc_zt=23&_nc_ht=scontent.fhan15-1.fna&_nc_gid=EGyr7Nll9pvj6ksY_4HRSw&oh=00_AfT4Z3o1Iqh8LHlhiO_sjExCZ11nRm8U_Z3gQZpqjSRHIA&oe=68940491'
     }
   ];
 
