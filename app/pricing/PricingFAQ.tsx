@@ -39,7 +39,7 @@ export default function PricingFAQ() {
       answer: 'Có. Tất cả hàng hóa được bảo hiểm 100% giá trị. Phí bảo hiểm đã bao gồm trong giá dịch vụ.'
     }
   ];
-
+const [activeIndex, setActiveIndex] = useState<number | null>(null);
 const toggleFAQ = (index: number) => {
   setActiveIndex(activeIndex === index ? null : index);
 };
