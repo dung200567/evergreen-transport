@@ -25,8 +25,8 @@ export default function CTASection() {
           </Link>
           <div className="flex items-center text-white">
             <span className="mr-2">hoặc gọi:</span>
-            <a href="tel:03883823884" className="font-bold text-xl hover:text-emerald-200 transition-colors">
-              03883823884
+            <a href="tel:0388823884" className="font-bold text-xl hover:text-emerald-200 transition-colors">
+              0388823884
             </a>
           </div>
         </div>
