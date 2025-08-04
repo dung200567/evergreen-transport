@@ -16,8 +16,8 @@ export default function ContactHero() {
           Đội ngũ tư vấn chuyên nghiệp sẵn sàng hỗ trợ bạn 24/7. Liên hệ ngay để được tư vấn miễn phí về dịch vụ chuyển nhà
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="tel:03883823884" className="bg-white text-emerald-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors whitespace-nowrap cursor-pointer">
-            Gọi ngay: 03883823884
+          <a href="tel:0388823884" className="bg-white text-emerald-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors whitespace-nowrap cursor-pointer">
+            Gọi ngay: 0388823884
           </a>
           <a href="#contact-form" className="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-emerald-600 transition-colors whitespace-nowrap cursor-pointer">
             Gửi tin nhắn

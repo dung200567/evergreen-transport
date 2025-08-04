@@ -5,7 +5,7 @@ export default function ContactInfo() {
     {
       name: 'Trụ sở chính',
       address: '30 Đường Kẻ Vẽ, Phường Đông Ngạc, Quận Bắc Từ Liêm, TP.Hà Nội',
-      phone: '03883823884',
+      phone: '0388823884',
       email: 'evergreentransports@gmail.com',
       hours: 'Phục Vụ 24/7',
       services: ['Tư vấn trực tiếp', 'Ký hợp đồng', 'Khảo sát', 'Hỗ trợ khách hàng'],
@@ -14,7 +14,7 @@ export default function ContactInfo() {
     {
       name: 'Chi nhánh Quận Nam Từ Liêm',
       address: 'Số 2 Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, TP.Hà Nội',
-      phone: '03883823884',
+      phone: '0388823884',
       email: 'evergreentransports@gmail.com',
       hours: 'Thứ 2 - Thứ 7: 8:00 - 18:00',
       services: ['Tư vấn dịch vụ', 'Nhận khiếu nại', 'Hỗ trợ kỹ thuật'],
@@ -23,7 +23,7 @@ export default function ContactInfo() {
     {
       name: 'Chi nhánh Quận Cầu Giấy',
       address: '133 Đường Nguyễn Phong Sắc, Phường Nghĩa Tân, Quận Cầu Giấy, TP.Hà Nội',
-      phone: '03883823884',
+      phone: '0388823884',
       email: 'evergreentransports@gmail.com',
       hours: 'Thứ 2 - Thứ 7: 8:00 - 18:00',
       services: ['Tư vấn dịch vụ', 'Đặt lịch hẹn', 'Thanh toán'],

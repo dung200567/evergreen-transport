@@ -127,8 +127,8 @@ export default function PricingPlans() {
           <p className="text-gray-600 mb-4">
             Cần tư vấn gói dịch vụ phù hợp? Liên hệ ngay với chúng tôi
           </p>
-          <a href="tel:03883823884" className="bg-emerald-600 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-emerald-700 transition-colors whitespace-nowrap cursor-pointer">
-            Gọi tư vấn: 03883823884
+          <a href="tel:0388823884" className="bg-emerald-600 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-emerald-700 transition-colors whitespace-nowrap cursor-pointer">
+            Gọi tư vấn: 0388823884
           </a>
         </div>
       </div>

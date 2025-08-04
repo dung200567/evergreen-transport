@@ -19,8 +19,8 @@ export default function BookingHero() {
           <a href="#booking-form" className="bg-white text-emerald-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors whitespace-nowrap cursor-pointer">
             Đặt lịch ngay
           </a>
-          <a href="tel:03883823884 " className="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-emerald-600 transition-colors whitespace-nowrap cursor-pointer">
-            Gọi ngay: 03883823884
+          <a href="tel:0388823884 " className="border-2 border-white text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-white hover:text-emerald-600 transition-colors whitespace-nowrap cursor-pointer">
+            Gọi ngay: 0388823884
           </a>
         </div>
       </div>

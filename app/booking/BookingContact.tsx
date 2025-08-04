@@ -60,7 +60,7 @@ export default function BookingContact() {
                 Đội ngũ chuyên viên của chúng tôi sẵn sàng hỗ trợ 24/7 cho các trường hợp khẩn cấp hoặc cần chuyển nhà gấp
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <a href="tel:03883823884" className="bg-emerald-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-emerald-700 transition-colors cursor-pointer whitespace-nowrap text-center">
+                <a href="tel:0388823884" className="bg-emerald-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-emerald-700 transition-colors cursor-pointer whitespace-nowrap text-center">
                   Gọi ngay
                 </a>
                 <a href="https://zalo.me/0388823884" className="border-2 border-emerald-600 text-emerald-600 px-6 py-3 rounded-lg font-semibold hover:bg-emerald-600 hover:text-white transition-colors cursor-pointer whitespace-nowrap text-center">
